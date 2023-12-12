@@ -48,4 +48,9 @@ plt.title("Blood Pressure vs Age")
 plt.plot(x, coef*x + intercept, c="r", label="Line of Best Fit")
 
 plt.legend()
-plt.show()
+plt.show()        
+
+
+
+
+
